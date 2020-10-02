@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Healthify.iml" filepath="$PROJECT_DIR$/Healthify.iml" group="Healthify" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Healthify/app" />
+      <module fileurl="file://$PROJECT_DIR$/progressviewslib/progressviewslib.iml" filepath="$PROJECT_DIR$/progressviewslib/progressviewslib.iml" group="Healthify/progressviewslib" />
+    </modules>
+  </component>
+</project>
